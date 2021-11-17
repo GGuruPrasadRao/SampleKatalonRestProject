@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDriveTestCaseXL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2db44dbd-300a-4a50-b39f-36d216861719</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d09f1ff9-5d4d-42e9-9232-21508990f40d</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>
